@@ -22,7 +22,14 @@
 
 ### 🧱 Weapons of Choice:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,java,php,c,html,css,docker,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,java,js,ts,php,c,docker,linux,git,vscode,figma" />
+</p>
+
+<p align="center">
+  🔹 <b>Frontend:</b> React, Next.js, HTML/CSS, JavaScript, Figma  <br/>
+  🔹 <b>Backend:</b> Node.js, Express, MongoDB, Python  <br/>
+  🔹 <b>DevOps:</b> Docker, Linux, Git, VPS Deployments  <br/>
+  🔹 <b>Languages Explored:</b> Java, TypeScript, PHP, C, Bash
 </p>
 
 ---
@@ -37,6 +44,29 @@
 
 ---
 
+### 🕹️ Wanna Play a Game?
+<details>
+  <summary>🔥 Open to play: Who is Saim?</summary>
+
+  You are entering the code battlefield...
+
+  - 🔹 Pick a weapon:
+    - [ ] React ⚛️
+    - [ ] Python 🐍
+    - [ ] Docker 🐳
+
+  Choose wisely and follow [my GitHub projects](https://github.com/itsmesaim) to unlock their powers.
+</details>
+
+---
+
+### 🏆 Trophies of a Code Warrior:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=onedark&row=2&column=4&no-bg=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
+</p>
+
+---
+
 ### 📊 GitHub Battle Record:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmesaim&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Saim%20%7C%20Digital%20Warfare%20Stats" />
@@ -47,15 +77,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesaim&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesaim&layout=donut&theme=radical&langs_count=10" />
 </p>
 
 ---
 
-### 🏅 Trophy Cabinet:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=matrix&margin-w=15&margin-h=15" />
-</p>
+### ⏱️ Time Invested in Code (via WakaTime):
+<!--START_SECTION:waka-->
+<!--WakaTime stats will auto-update here if integrated-->
+<!--END_SECTION:waka-->
 
 ---
 

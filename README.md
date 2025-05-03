@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Saim Shabbir Kaskar ⚡</h1>
-<h3 align="center">Full-Stack Sorcerer. Code Whisperer. DevOps Mindset. ML Curious.</h3>
+<h3 align="center">Full-Stack Sorcerer · Code Whisperer · DevOps Mindset · ML Curious</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Engineer+by+Skill.;Dreamer+by+Soul.;Reacting+to+Code+like+a+Beast.;Building+with+Purpose.;On+a+Mission+to+Disrupt." alt="Typing SVG" />
@@ -11,19 +11,29 @@
 
 ---
 
-### 🔥 Mission Status:
-- 🧠 Currently learning: **React. Machine Learning. DevOps.**
-- 🛠 Working on: Full-stack projects that solve real-world chaos.
-- 💬 Fluent in: `Python.` `Node.` `Express.` `MongoDB.` `React.`
-- ✉️ Reach me at: **saimkaskar786@gmail.com**
-- ⚡ Fun fact: *Night owl. Early riser. Powered by caffeine and conviction.*
+### 🚀 Mission Status:
+- 🧠 Currently leveling up in: `React`, `DevOps`, `Machine Learning`
+- ⚙️ Building: Real-world tools with real-world impact
+- 💬 Stack fluent in: `Python`, `Node.js`, `Express`, `MongoDB`, `React`
+- ✉️ Contact: **saimkaskar1@gmail.com**
+- 💡 Fun Fact: *Wired by caffeine. Guided by purpose. Code never sleeps.*
 
 ---
 
-### 🧩 Tech Arsenal:
+### 🧰 Tech Arsenal:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,react,express,mongodb,java,js,php,c,html,css,git,vscode,docker,linux" />
 </p>
+
+---
+
+### 🧠 Who TF Is Saim?
+
+> Full-stack soldier.  
+> Minimal ego. Maximum intent.  
+> Breaks limits, not code.  
+> Between caffeine and chaos, I write clean code.  
+> Dreaming in logic. Breathing in loops.  
 
 ---
 
@@ -49,18 +59,11 @@
 
 ---
 
-### 🧠 Who TF Is Saim?
-
-> Full-stack soldier.  
-> Minimal ego. Maximum clarity.  
-> Breaks limits, not code.  
-> On a quest for depth in tech and soul.  
-> Between caffeine and code, I build my legacy.
-
----
-
 ### 🌐 Connect With Me:
 <p align="center">
+  <a href="https://www.linkedin.com/in/saim-kaskar-34a6a4206" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://twitter.com/kingoflegendsk1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>

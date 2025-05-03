@@ -1,45 +1,45 @@
-<h1 align="center">⚡ Saim Shabbir Kaskar ⚡</h1>
-<h3 align="center">Full-Stack Sorcerer · Code Whisperer · DevOps Mindset · ML Curious</h3>
+<h1 align="center">🚀 Saim Shabbir Kaskar — Code. Conquer. Repeat. ⚡</h1>
+<h3 align="center">🧠 Full-Stack Dev | 🛠 DevOps Soldier | 🤖 ML Explorer | 💥 Builder of Chaos-Resistant Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Engineer+by+Skill.;Dreamer+by+Soul.;Reacting+to+Code+like+a+Beast.;Building+with+Purpose.;On+a+Mission+to+Disrupt." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Shipping+Code+Like+Missiles.;No+bugs+left+alive.;Backend+Ninja.+Frontend+Artist.;Hacking+Growth+via+Tech.;Built+Different." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmesaim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 🚀 Mission Status:
-- 🧠 Currently leveling up in: `React`, `DevOps`, `Machine Learning`
-- ⚙️ Building: Real-world tools with real-world impact
-- 💬 Stack fluent in: `Python`, `Node.js`, `Express`, `MongoDB`, `React`
-- ✉️ Contact: **saimkaskar1@gmail.com**
-- 💡 Fun Fact: *Wired by caffeine. Guided by purpose. Code never sleeps.*
-
----
-
-### 🧰 Tech Arsenal:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,react,express,mongodb,java,js,php,c,html,css,git,vscode,docker,linux" />
+  <img src="https://komarev.com/ghpvc/?username=itsmesaim&label=Stalkers&color=6F00FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🧠 Who TF Is Saim?
-
-> Full-stack soldier.  
-> Minimal ego. Maximum intent.  
-> Breaks limits, not code.  
-> Between caffeine and chaos, I write clean code.  
-> Dreaming in logic. Breathing in loops.  
+### ⚔️ Current Loadout:
+- 🔍 Grinding: `React`, `DevOps`, `Machine Learning`
+- 🔨 Deploying: Full-stack apps that punch above their weight
+- 🧠 Stack Proficiency: `Node.js`, `React`, `Express`, `MongoDB`, `Python`
+- 📬 Hit me up: **saimkaskar1@gmail.com**
+- 🧃 Life Hack: Coffee in veins, code in brain.
 
 ---
 
-### ⚔️ GitHub War Stats:
+### 🧱 Weapons of Choice:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesaim&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Saim%20Shabbir%20Kaskar%20%7C%20Code%20Warrior" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,java,php,c,html,css,docker,linux,git,vscode" />
+</p>
+
+---
+
+### 🧬 DNA of Saim
+
+> Not your average dev.  
+> I don't just fix bugs — I trace them to the void and erase their ancestors.  
+> Code with purpose. Ship with power.  
+> In a world full of templates, I build originals.  
+> No ego, just energy. No shortcuts, just grind.
+
+---
+
+### 📊 GitHub Battle Record:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmesaim&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Saim%20%7C%20Digital%20Warfare%20Stats" />
 </p>
 
 <p align="center">
@@ -52,14 +52,14 @@
 
 ---
 
-### 🏆 Achievements Unlocked:
+### 🏅 Trophy Cabinet:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=darkhub&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=matrix&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### 🌐 Connect With Me:
+### 🌐 Network Me Here:
 <p align="center">
   <a href="https://www.linkedin.com/in/saim-kaskar-34a6a4206" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

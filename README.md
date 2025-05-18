@@ -1,12 +1,10 @@
 <div align="center">
 
-# 🔥 SAIM SHABBIR KASKAR 🔥
-### `Digital Architect • Code Alchemist • System Destroyer & Creator`
+# 🔱 SAIM SHABBIR KASKAR 🔱
+### `⚔️ DIGITAL WARLORD • CODE NECROMANCER • SYSTEM OVERLORD ⚔️`
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=25&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=🎯+PRECISION+CODING+%7C+ZERO+MERCY+FOR+BUGS;💀+ARCHITECT+OF+DIGITAL+DESTRUCTION;⚡+LEGENDARY+STATUS%3A+UNLOCKED+⚡;🔥+BUILDING+TOMORROW'S+TECH+TODAY" alt="Elite Developer Matrix" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&pause=800&color=FF0051&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=⚡+CRAFTING+IMPOSSIBLE+%7C%7C+SHIPPING+LEGENDS+⚡;🚀+WHERE+BUGS+COME+TO+DIE+%7C%7C+CODE+COMES+TO+LIVE+🚀" alt="Legendary Status" />
 </div>
 
 <div align="center">

@@ -2,7 +2,8 @@
 ### 🧠 Full-Stack Developer | 🛠️ DevOps Engineer | 🤖 ML Enthusiast | 💥 Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Shipping+Code+Like+a+Pro;Building+Digital+Solutions;Full-Stack+%7C+DevOps+%7C+ML;Crafting+Efficient+Systems;Innovation+Through+Code" alt="Typing SVG" />
+  <img
+ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Shipping+Code+Like+a+Pro;Building+Digital+Solutions;Full-Stack+%7C+DevOps+%7C+ML;Crafting+Efficient+Systems;Innovation+Through+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">

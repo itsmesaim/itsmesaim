@@ -2,6 +2,7 @@
 
 <div align="center">
 
+
 ### 🎯 Full-Stack Architect | ⚡ DevOps Specialist | 🧠 ML Engineer | 🚀 System Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Systems;MERN+Stack+%7C+Python+ML+%7C+DevOps;Shipping+Code+That+Scales;Network+Security+%7C+6G+Research;From+Concept+to+Deployment" alt="Typing Animation" />

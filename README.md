@@ -144,7 +144,7 @@ const saim: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itsmesaim&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com?user=itsmesaim&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
 
 **🏆 Highest Streak:** Shows dedication to consistent coding  
 **⚡ Current Streak:** Active development cycle  
@@ -158,7 +158,7 @@ const saim: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,MultiLanguage" alt="GitHub Trophies" />
 
 </div>
 

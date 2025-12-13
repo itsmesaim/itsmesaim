@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 ### 🎯 Full-Stack Architect | ⚡ DevOps Specialist | 🧠 ML Engineer | 🚀 System Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Systems;MERN+Stack+%7C+Python+ML+%7C+DevOps;Shipping+Code+That+Scales;Network+Security+%7C+6G+Research;From+Concept+to+Deployment" alt="Typing Animation" />
@@ -139,7 +138,17 @@ const saim: Developer = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmesaim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=GitHub%20Performance" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesaim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
+</div>
+
+### 🔥 Commit Streak — Consistency is Key
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmesaim&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+**🏆 Highest Streak:** Shows dedication to consistent coding  
+**⚡ Current Streak:** Active development cycle  
+**📈 Total Contributions:** Building in public, shipping regularly
 
 </div>
 

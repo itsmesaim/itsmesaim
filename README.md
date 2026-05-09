@@ -1,154 +1,192 @@
-# 🔥 Saim Shabbir Kaskar — Ship Fast. Build Better. Never Settle.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saim%20Kaskar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20Dublin%20🇮🇪&descAlignY=60&descAlign=50" />
+
+</div>
 
 <div align="center">
 
-### 🎯 Full-Stack Architect | ⚡ DevOps Specialist | 🧠 ML Engineer | 🚀 System Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🎥+Built+a+live+video+platform+from+scratch;🧠+Training+ML+models+for+6G+threat+detection;🤖+LangChain+%2B+LangGraph+agentic+AI+pipelines;🚀+4+years+%7C+15%2B+real+client+projects+shipped;☕+Powered+by+coffee+%26+Claude+Code" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Systems;MERN+Stack+%7C+Python+ML+%7C+DevOps;Shipping+Code+That+Scales;Network+Security+%7C+6G+Research;From+Concept+to+Deployment" alt="Typing Animation" />
+</div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=itsmesaim&label=Profile+Views&color=00d9ff&style=for-the-badge)](https://github.com/itsmesaim)
+[![Followers](https://img.shields.io/github/followers/itsmesaim?label=Followers&style=for-the-badge&color=7c3aed)](https://github.com/itsmesaim?tab=followers)
+[![Stars](https://img.shields.io/github/stars/itsmesaim?label=Total+Stars&style=for-the-badge&color=fbbf24)](https://github.com/itsmesaim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-kaskar-34a6a4206)
+
+</div>
+
+---
+
+## 🧑‍💻 Who Am I?
+
+```typescript
+const saim: Developer = {
+  name:       "Saim Shabbir Kaskar",
+  base:       "Dublin, Ireland ",
+  education:  ["MSc Computing @ Griffith College Dublin",
+               "BEng Computer Eng (Honor degree in AI & ML) — CGPA 8.2 🏅"],
+  experience: "4 years | 15+ shipped products | 0 half-finished projects",
+  building:   "MeetX — a live video platform nobody asked me to build (but here we are)",
+  aiStack:    ["LangChain", "LangGraph", "LangSmith", "LLM APIs"],
+  dailyTools: ["Claude Code", "React", "JavaScript", "TypeScript"],
+  contact:    "saimkaskar1@gmail.com",
+  funFact:    "I debug in production. (Just kidding. Sometimes.)",
+};
+```
+
+> *"I don't just write code — I ship products. There's a difference."*
+
+---
+
+## 🚀 Flagship Project — MeetX
+
+<div align="center">
+
+[![MeetX Live](https://img.shields.io/badge/🎥%20MeetX-LIVE%20NOW-00D9FF?style=for-the-badge)](https://meetx.saimjs.com)
+[![GitHub](https://img.shields.io/badge/GitHub-itsmesaim%2FmeetX-181717?style=for-the-badge&logo=github)](https://github.com/itsmesaim/meetX)
+
+</div>
+
+> **Real-time video & screen-sharing platform** — built end-to-end, solo, deployed, and live.
+
+```
+🎥  Video calls         →  WebRTC peer-to-peer, handles real users not just localhost
+🖥️  Screen sharing      →  LiveKit media server, low-latency streams
+💬  Live chat           →  WebSockets, zero-lag messaging  
+🔐  Auth & rooms        →  JWT-secured, room-based access control
+⚙️  Backend             →  Spring Boot (Java), REST API
+🎨  Frontend            →  React + TypeScript, actually looks good
+🤖  Coming next         →  LLM-powered meeting transcription + in-meeting AI bot
+```
+
+**Stack:** `React` · `TypeScript` · `Spring Boot` · `WebRTC` · `LiveKit` · `WebSockets` · `JWT`
+
+**→ Live:** [meetx.saimjs.com](https://meetx.saimjs.com) — go break it. I dare you.
+
+---
+
+## 🔬 More Projects Worth a Click
+
+<details>
+<summary><b>🛡️ 6G AI Security System — MSc Dissertation (click to expand)</b></summary>
+
+<br>
+
+> AI-powered threat detection for next-gen 6G smart city networks. Built for my MSc — but way too cool to just hand in and forget.
+
+```
+🌐  Simulated 6G network     →  NS-3 network simulator, full topology
+🤖  Anomaly detection         →  Supervised + unsupervised ML models trained & compared
+🔥  Dual-layer firewall       →  High-risk threats: auto-blocked instantly
+                                 Medium/unknown threats: flagged for human review
+📊  Real-time dashboard       →  React frontend fed by live WebSocket events
+🧠  Self-improving            →  Operator decisions loop back into model training
+```
+
+**Stack:** `Python` · `NS-3` · `scikit-learn` · `React` · `WebSockets` · `ML (supervised + unsupervised)`
+
+</details>
+
+<details>
+<summary><b>✈️ AeroFlow — Airport Management System (click to expand)</b></summary>
+
+<br>
+
+> Enterprise-level airport ops platform. Multiple staff roles, live flight data, full backend — basically a mini airline.
+
+```
+👥  Role-based access         →  Admin / staff / gate ops — different dashboards per role
+🛫  Flight management         →  Scheduling, gate assignment, real-time status
+📋  Operations centre         →  Live ops overview with AJAX updates
+🗃️  Data layer                →  MongoDB + Express RESTful APIs
+```
+
+**Stack:** `Node.js` · `Express.js` · `MongoDB` · `jQuery` · `AJAX` · `RBAC`
+
+</details>
+
+<details>
+<summary><b>📦 Other Shipped Projects</b></summary>
+
+<br>
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **Campus Delivery System** | Order tracking for university campus | Node.js · Handlebars · MongoDB |
+| **Fitness App** | Exercise search + workout planning | React · ExerciseDB API |
+| **Job Tracker** | Track applications, not your existential dread | Node.js · JavaScript |
+| **Habit Tracker** | Daily habits with persistent state | Node.js · EJS |
+| **15+ Freelance Projects** | Billing systems · Inventory · Marketing sites · E-commerce | Whatever the client needed |
+
+</details>
+
+---
+
+## ⚔️ The Arsenal
+
+<div align="center">
+
+### 🎨 Frontend — Where Users Actually See Me
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
+
+### ⚙️ Backend — Where The Real Work Happens
+
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
+
+### 🧠 AI & ML — The Smart Stuff
+
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)](https://langchain.com)
+[![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge)](https://langchain-academy.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![NLTK](https://img.shields.io/badge/NLTK-3498DB?style=for-the-badge)](https://nltk.org)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)](https://spacy.io)
+
+### 🗄️ Databases — Data Doesn't Store Itself
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+
+### 🚀 DevOps & Real-Time — Keeping It All Alive
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+[![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org)
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)](https://socket.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmesaim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=GitHub+Performance" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesaim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsmesaim&label=Profile+Views&color=00d9ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/itsmesaim?label=Followers&style=for-the-badge&color=7c3aed)
-![Stars](https://img.shields.io/github/stars/itsmesaim?label=Total+Stars&style=for-the-badge&color=fbbf24)
-
-</div>
-
----
-
-## 🎯 Current Warfare
-
-```javascript
-const currentMission = {
-  building: "AeroFlow - Enterprise Airport Management System",
-  stack: ["Node.js", "Express", "MongoDB", "jQuery/AJAX"],
-  deploying: "VPS infrastructure with WireGuard VPN routing",
-  researching: "AI-Powered 6G Network Security with NS-3",
-  collaborating: "Remote teams on portfolio-grade applications",
-  status: "Shipping features, debugging production, scaling systems"
-};
-```
-
-**📌 Active Projects:**
-- ✈️ **AeroFlow** — Full-scale airport operations platform with role-based access
-- 🛡️ **6G Security Suite** — ML-powered anomaly detection for smart city networks
-- 🧠 **Medical AI** — Brain tumor detection system with Streamlit interface
-- 🏋️ **Fitness Platform** — React app with ExerciseDB API integration
-
-📧 **Direct Line:** saimkaskar1@gmail.com | 💻 **Timezone:** Building in IST, deploying globally
-
----
-
-## ⚔️ Arsenal
-
-<div align="center">
-
-### Core Stack
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,typescript,nextjs,docker&theme=dark" />
-
-### Extended Toolkit
-
-<img src="https://skillicons.dev/icons?i=java,php,linux,git,github,vscode,postman,figma&theme=dark" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🎨 Frontend Mastery**
-
-React • Next.js • TypeScript  
-JavaScript • jQuery • AJAX  
-HTML5 • CSS3 • Responsive Design  
-Streamlit • Handlebars  
-
-</td>
-<td align="center" width="33%">
-
-**⚙️ Backend Power**
-
-Node.js • Express.js  
-MongoDB • Database Design  
-RESTful APIs • Authentication  
-Python • Java • PHP  
-
-</td>
-<td align="center" width="33%">
-
-**🚀 DevOps & Infrastructure**
-
-Docker • Linux Administration  
-VPS Deployment • WireGuard VPN  
-Git Version Control  
-NS-3 Network Simulation  
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Battle-Tested Solutions
-
-<div align="center">
-
-| Project | Tech Stack | Status |
-|---------|-----------|--------|
-| **AeroFlow** | Node.js, Express, MongoDB, jQuery | 🚀 In Production |
-| **6G Security Research** | Python, NS-3, ML Models, React Dashboard | 🔬 Research Phase |
-| **Brain Tumor Detection** | Python, Streamlit, ML, Medical Imaging | ✅ Deployed |
-| **Campus Delivery System** | Node.js, Handlebars, MongoDB | ✅ Complete |
-| **Fitness Application** | React, ExerciseDB API, Frontend Focus | ✅ Live |
-
-</div>
-
----
-
-## 🧠 Philosophy
-
-<div align="center">
-
-> **"In a world of copy-paste developers, I architect original solutions."**
-
-```typescript
-interface Developer {
-  mindset: "Problem solver, not problem creator";
-  approach: "Production-ready code, scalable architecture";
-  speciality: "Full-stack systems that handle real-world complexity";
-  motto: "Ship fast, build better, never compromise on quality";
-}
-
-const saim: Developer = {
-  expertise: ["MERN Stack", "Python ML", "DevOps", "Network Security"],
-  currentFocus: "Building enterprise-grade applications",
-  driveBy: "Coffee and clean code"
-};
-```
-
-</div>
-
----
-
-## 📊 GitHub Battle Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmesaim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=GitHub%20Performance" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesaim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-</div>
-
-### 🔥 Commit Streak — Consistency is Key
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=itsmesaim&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
-
-**🏆 Highest Streak:** Shows dedication to consistent coding  
-**⚡ Current Streak:** Active development cycle  
-**📈 Total Contributions:** Building in public, shipping regularly
+<img src="https://streak-stats.demolab.com?user=itsmesaim&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -158,52 +196,70 @@ const saim: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,MultiLanguage" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsmesaim&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 
 </div>
 
 ---
 
-## 🔗 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-kaskar-34a6a4206)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kingoflegendsk1)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s3amwtf)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimkaskar1@gmail.com)
-
-</div>
-
----
-
-## 🎮 Fun Facts
+## 😅 Dev Confession Corner
 
 ```python
 class SaimKaskar:
-    def __init__(self):
-        self.code_style = "Clean, modular, production-ready"
-        self.debugging_method = "Coffee-driven problem solving"
-        self.deployment_speed = "Fast and reliable"
-        self.learning_mode = "Always on"
-    
-    def daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🚀 Deploy", "🔄 Repeat"]
-    
-    def current_vibe(self):
-        return "Building systems that matter"
+
+    daily_routine = [
+        " Coffee #1 — for waking up",
+        " Write code — feeling confident",
+        " Coffee #2 — for the bugs from coffee #1",
+        " Debug for 2 hours — it was a missing semicolon",
+        " Deploy at 11pm — what could go wrong",
+        " Repeat — this is fine",
+    ]
+
+    things_i_say = [
+        "It works on my machine ",
+        "I'll add tests later (narrator: he did not add tests)",
+        "This is definitely the last refactor",
+        "I'll document it when it's done (it is never done)",
+        "Just one more feature and I'll sleep",
+    ]
+
+    honest_opinions = {
+        "css":             "a love language nobody fully understands, including me",
+        "git_history":     "mine reads like a novel written at 3am",
+        "tabs_vs_spaces":  "whoever started this debate owes me hours of sleep",
+        "documentation":   "my comments are basically therapy notes for future me",
+        "estimated_time":  "double it. then double it again.",
+    }
+
+    def current_status(self):
+        return "shipping features, breaking things quietly, fixing them loudly 🔥"
 ```
 
 ---
 
+## 🔗 Find Me
+
 <div align="center">
 
-### 💡 "Code is poetry, deployment is the performance"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-kaskar-34a6a4206)
+[![MeetX](https://img.shields.io/badge/🎥_MeetX-Live_Now-00D9FF?style=for-the-badge)](https://meetx.saimjs.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Say_Hi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kingoflegendsk1)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s3amwtf)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimkaskar1@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" />
+</div>
 
-**⭐ If you find my work interesting, drop a star on my repositories!**
+---
 
-*Building the future, one commit at a time.*
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks+for+dropping+by+👋+Star+something+on+the+way+out+⭐&fontSize=17&fontColor=fff&animation=twinkling&fontAlignY=70" />
+
+*4 years. 15+ shipped products. 1 goal: build things that actually work.*
 
 </div>
